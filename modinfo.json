@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modid": "kombat",
+  "name": "K.O.M.B.A.T.",
+  "author": "Kurtchekov",
+  "description": "A framework for more combat variety.",
+  "version": "0.1.0",
+  "dependency": {
+    "game": "1.14.5"
+  }
+}
